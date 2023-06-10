@@ -1,4 +1,4 @@
-public class unique {
+public class find_unique_element {
     public static int uniqarr(int []arr)
     {
         for (int i = 0; i < arr.length; i++) {
